@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/kali/Code/3Ch/laplas/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/LibsModule.dir/main.c.o -c /home/kali/Code/3Ch/laplas/main.c",
+  "file": "/home/kali/Code/3Ch/laplas/main.c",
+  "output": "CMakeFiles/LibsModule.dir/main.c.o"
+},
+{
+  "directory": "/home/kali/Code/3Ch/laplas/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/LibsModule.dir/fileReader.c.o -c /home/kali/Code/3Ch/laplas/fileReader.c",
+  "file": "/home/kali/Code/3Ch/laplas/fileReader.c",
+  "output": "CMakeFiles/LibsModule.dir/fileReader.c.o"
+},
+{
+  "directory": "/home/kali/Code/3Ch/laplas/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/LibsModule.dir/object.c.o -c /home/kali/Code/3Ch/laplas/object.c",
+  "file": "/home/kali/Code/3Ch/laplas/object.c",
+  "output": "CMakeFiles/LibsModule.dir/object.c.o"
+},
+{
+  "directory": "/home/kali/Code/3Ch/laplas/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/LibsModule.dir/value.c.o -c /home/kali/Code/3Ch/laplas/value.c",
+  "file": "/home/kali/Code/3Ch/laplas/value.c",
+  "output": "CMakeFiles/LibsModule.dir/value.c.o"
+},
+{
+  "directory": "/home/kali/Code/3Ch/laplas/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/LibsModule.dir/scanner.c.o -c /home/kali/Code/3Ch/laplas/scanner.c",
+  "file": "/home/kali/Code/3Ch/laplas/scanner.c",
+  "output": "CMakeFiles/LibsModule.dir/scanner.c.o"
+},
+{
+  "directory": "/home/kali/Code/3Ch/laplas/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/LibsModule.dir/memory.c.o -c /home/kali/Code/3Ch/laplas/memory.c",
+  "file": "/home/kali/Code/3Ch/laplas/memory.c",
+  "output": "CMakeFiles/LibsModule.dir/memory.c.o"
+},
+{
+  "directory": "/home/kali/Code/3Ch/laplas/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/LibsModule.dir/stringTable.c.o -c /home/kali/Code/3Ch/laplas/stringTable.c",
+  "file": "/home/kali/Code/3Ch/laplas/stringTable.c",
+  "output": "CMakeFiles/LibsModule.dir/stringTable.c.o"
+},
+{
+  "directory": "/home/kali/Code/3Ch/laplas/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/LibsModule.dir/globalState.c.o -c /home/kali/Code/3Ch/laplas/globalState.c",
+  "file": "/home/kali/Code/3Ch/laplas/globalState.c",
+  "output": "CMakeFiles/LibsModule.dir/globalState.c.o"
+},
+{
+  "directory": "/home/kali/Code/3Ch/laplas/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/laplas.dir/main.c.o -c /home/kali/Code/3Ch/laplas/main.c",
+  "file": "/home/kali/Code/3Ch/laplas/main.c",
+  "output": "CMakeFiles/laplas.dir/main.c.o"
+}
+]
