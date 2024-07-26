@@ -1,2 +1,0 @@
-/usr/bin/ar qc libLibsModule.a CMakeFiles/LibsModule.dir/main.c.o CMakeFiles/LibsModule.dir/fileReader.c.o CMakeFiles/LibsModule.dir/object.c.o CMakeFiles/LibsModule.dir/value.c.o CMakeFiles/LibsModule.dir/scanner.c.o CMakeFiles/LibsModule.dir/memory.c.o CMakeFiles/LibsModule.dir/stringTable.c.o CMakeFiles/LibsModule.dir/globalState.c.o
-/usr/bin/ranlib libLibsModule.a

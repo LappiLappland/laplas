@@ -1,1 +1,0 @@
-/usr/bin/gcc -g -rdynamic CMakeFiles/clox.dir/main.c.o -o clox  libLibsModule.a 

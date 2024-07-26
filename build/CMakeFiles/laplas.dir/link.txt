@@ -1,1 +1,0 @@
-/usr/bin/gcc -g CMakeFiles/laplas.dir/main.c.o -o laplas  libLibsModule.a 

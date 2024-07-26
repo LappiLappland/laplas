@@ -1,4 +1,0 @@
-/home/kali/Code/3Ch/laplas/build/CMakeFiles/LibsModule.dir
-/home/kali/Code/3Ch/laplas/build/CMakeFiles/laplas.dir
-/home/kali/Code/3Ch/laplas/build/CMakeFiles/edit_cache.dir
-/home/kali/Code/3Ch/laplas/build/CMakeFiles/rebuild_cache.dir
